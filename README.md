@@ -47,19 +47,23 @@ pop up window will show more details (title, summary and author...)
 ##### Sample Screenshots. 
 
 Main UI
+
 ![main UI](https://raw.githubusercontent.com/zmomen/news-app/master/screenshots/main%20window.png)
 
 
 Search for ```netflix```
+
 ![Search for netflix](https://raw.githubusercontent.com/zmomen/news-app/master/screenshots/Search%20for%20netflix.png)
 
 
 
 Save selected results
+
 ![save selected results](https://raw.githubusercontent.com/zmomen/news-app/master/screenshots/selected%20items%20saved.png)
 
 
 View Saved results
+
 ![View Saved results](https://raw.githubusercontent.com/zmomen/news-app/master/screenshots/view%20saved%20results.png)
 
 
