@@ -44,7 +44,23 @@ This is a news search application designed using javaFX, with apache tomcat serv
 ** NOTE: the popup action per each result item does not work properly. currently it causes the existing results to disappear temporarily, click the main menu button or view saved button to retrieve results again. 
 pop up window will show more details (title, summary and author...)
 
-##### sample Screenshots. 
+##### Sample Screenshots. 
+
+Main UI
+[linkhere/](test.txt)
+
+
+Search for ```netflix```
+[linkhere/](test.txt)
+
+
+
+Save selected results
+[linkhere/](test.txt)
+
+
+View Saved results
+[linkhere/](test.txt)
 
 
 
