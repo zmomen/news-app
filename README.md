@@ -51,16 +51,16 @@ Main UI
 
 
 Search for ```netflix```
-[linkhere/](https://raw.githubusercontent.com/zmomen/news-app/master/screenshots/Search%20for%20netflix.png)
+![Search for netflix](https://raw.githubusercontent.com/zmomen/news-app/master/screenshots/Search%20for%20netflix.png)
 
 
 
 Save selected results
-[linkhere/](https://raw.githubusercontent.com/zmomen/news-app/master/screenshots/selected%20items%20saved.png)
+![save selected results](https://raw.githubusercontent.com/zmomen/news-app/master/screenshots/selected%20items%20saved.png)
 
 
 View Saved results
-[linkhere/](https://raw.githubusercontent.com/zmomen/news-app/master/screenshots/view%20saved%20results.png)
+![View Saved results](https://raw.githubusercontent.com/zmomen/news-app/master/screenshots/view%20saved%20results.png)
 
 
 
