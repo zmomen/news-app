@@ -1,0 +1,28 @@
+steps: 
+
+layout. 
+1. design main stage. ----
+2. add search tab. ------
+3. add view saved tab. -----
+
+interactive scene. 
+1. search box, type input. -------
+2. result list. scrollable. limit to 100. XX
+3. result list: checkbox | result title | result summary.-------
+4. clickable result item in pop up box. 
+
+viewing/saving results. 
+1. click result item.  XX
+2. checkbox | result title | result summary. -----------
+3. click save button. results saved in saved items tab.  ---------
+
+deleting results. 
+1. in saved items, click delete button at top of toolbar. -------
+
+---- 
+back-end
+
+- Tomcat. send/receive database queries. -----
+- embedded Derby. table design. -------
+- REST API datasource: news-api. --------
+- db design. add columns. add pk. generate sql scripts. ------
