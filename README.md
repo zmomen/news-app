@@ -51,7 +51,7 @@ Main UI
 
 
 Search for ```netflix```
-[linkhere/](test.txt)
+[linkhere/](screenshots/main%20window.png)
 
 
 
