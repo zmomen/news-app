@@ -33,7 +33,7 @@ public class NewsAppController {
     
     //final variables used to connect to data sources. 
     private final static String dbLocation = "http://localhost:8080/DemoApp/results";
-    private final static String apiKey = "16eabca179494fa391757fa32d70a9cd";
+    private final static String apiKey = "SECRET_KEY";
     private final static String apiSource = "https://newsapi.org/v2/everything";
     
     /**
