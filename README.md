@@ -47,7 +47,7 @@ pop up window will show more details (title, summary and author...)
 ##### Sample Screenshots. 
 
 Main UI
-[linkhere/](test.txt)
+[main UI](news-app/screenshots/main window.png)
 
 
 Search for ```netflix```
